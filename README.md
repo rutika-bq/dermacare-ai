@@ -240,15 +240,7 @@ This project provides AI-assisted preliminary guidance only and is not a replace
 
 ---
 
-# Author
 
-## Jothisk Nandan Palla
-
-GitHub: https://github.com/Nandan0201-debug
-
-LinkedIn: https://linkedin.com/in/palla-jothisk-nandan
-
----
 
 # License
 
